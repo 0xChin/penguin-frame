@@ -8,8 +8,10 @@
     "deploy": "vercel"
   },
   "dependencies": {
+    "@orbisclub/orbis-sdk": "^0.4.89",
     "frog": "latest",
-    "hono": "^4"
+    "hono": "^4",
+    "livepeer": "^3.0.2"
   },
   "devDependencies": {
     "tsx": "^4.7.1",
